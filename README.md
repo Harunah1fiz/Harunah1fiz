@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a dedicated learner at **ALX**, specializing in **Backend Engineering** and **Data Science**. My journey started with a desire to **rewrite my story** — from struggling with discipline to mastering my craft and achieving my biggest dreams.
+I am a dedicated learner at **ALX**, specializing in **Backend Engineering** and **Data Science**. My journey started with a desire to **rewrite my story**  from struggling with discipline to mastering my craft and achieving my biggest dreams.
 
 I am passionate about:
 
