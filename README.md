@@ -23,9 +23,9 @@ I am passionate about:
 
 - 🌱 Master backend technologies and data science tools
 - 🛠️ Build meaningful projects that solve real-world problems:
-   - ✅ **Design** a Community Skills Exchange Platform to empower peer-to-peer learning  
-   - ✅ **Develop** a Farmers’ Analytics Dashboard to support small-scale farmers  
-   - ✅ **Launch** an Accountability Buddy App to help people stay consistent and achieve goals  
+   - **Design** a Community Skills Exchange Platform to empower peer-to-peer learning  
+   - **Develop** a Farmers’ Analytics Dashboard to support small-scale farmers  
+   -  **Launch** an Accountability Buddy App to help people stay consistent and achieve goals  
 - 👥 Collaborate with others and give back to the community
 - 🏆 Become a role model of **discipline** and **impact**
 
